@@ -3,4 +3,3 @@ PyPDF2
 pandas
 openpyxl
 rapidfuzz
---force-reinstall PyPDF2
