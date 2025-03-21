@@ -1,5 +1,5 @@
 streamlit
-pymupdf
+PyPDF2
 pandas
 openpyxl
 rapidfuzz
